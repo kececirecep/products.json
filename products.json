@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone",
+      "category": "Phone",
+      "image": "https://m.media-amazon.com/images/I/61KL4pYEzhL._AC_SL1500_.jpg",
+      "price": 2000,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "2",
+      "name": "Gaming Laptop",
+      "category": "Computer",
+      "image": "https://m.media-amazon.com/images/I/81zcUyiNcUL._AC_SL1500_.jpg",
+      "price": 8000,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "3",
+      "name": "Wireless Earphones",
+      "category": "Headphones",
+      "image": "https://m.media-amazon.com/images/I/61o1xjvnrpL._AC_SL1500_.jpg",
+      "price": 300,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "4",
+      "name": "Tablet",
+      "category": "Tablet",
+      "image": "https://m.media-amazon.com/images/I/71TOJXChXtL._AC_SL1500_.jpg",
+      "price": 1500,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "5",
+      "name": "Smart Watch",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61YO6UdF1dL._AC_SL1500_.jpg",
+      "price": 500,
+      "favorite": true,
+      "popular": false
+    },
+    {
+      "id": "6",
+      "name": "Gaming Console",
+      "category": "Gaming",
+      "image": "https://m.media-amazon.com/images/I/71sGOdzDVqL._AC_SL1500_.jpg",
+      "price": 2500,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "7",
+      "name": "High-Performance PC",
+      "category": "Computer",
+      "image": "https://m.media-amazon.com/images/I/61PLUeR9MoS._AC_SL1500_.jpg",
+      "price": 12000,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "8",
+      "name": "Bluetooth Speaker",
+      "category": "Speaker",
+      "image": "https://m.media-amazon.com/images/I/61iJoQoiVnL._AC_SL1200_.jpg",
+      "price": 150,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "9",
+      "name": "Digital Camera",
+      "category": "Camera",
+      "image": "https://m.media-amazon.com/images/I/7174tl2r1gL._AC_SL1500_.jpg",
+      "price": 1800,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "10",
+      "name": "Wireless Keyboard and Mouse Set",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61qy8xEikhL._AC_SL1500_.jpg",
+      "price": 100,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "11",
+      "name": "Smart Home Kit",
+      "category": "Home Appliances",
+      "image": "https://m.media-amazon.com/images/I/71R5TCgdtgL._AC_SL1500_.jpg",
+      "price": 600,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "12",
+      "name": "Laptop Cooling Pad",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/81Te2luhQuL._AC_SL1500_.jpg",
+      "price": 50,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "13",
+      "name": "Wireless Over-Ear Headphones",
+      "category": "Headphones",
+      "image": "https://m.media-amazon.com/images/I/61O7S27O+jL._AC_SL1468_.jpg",
+      "price": 250,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "14",
+      "name": "OLED Television",
+      "category": "TV",
+      "image": "https://m.media-amazon.com/images/I/71JBFyKDuZL._AC_SL1500_.jpg",
+      "price": 3500,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "15",
+      "name": "Compact Gaming Console",
+      "category": "Gaming",
+      "image": "https://m.media-amazon.com/images/I/61s9zwH60DL._AC_SL1500_.jpg",
+      "price": 800,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "16",
+      "name": "Wireless Charger",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61wYbF7rEmL._AC_SL1300_.jpg",
+      "price": 30,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "17",
+      "name": "Drone",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/71kpb6wpX-L._AC_SL1500_.jpg",
+      "price": 400,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "18",
+      "name": "High-Precision Gaming Mouse",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61oXMZqkEFL._AC_SL1500_.jpg",
+      "price": 80,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "19",
+      "name": "Wireless Gamepad",
+      "category": "Gaming",
+      "image": "https://m.media-amazon.com/images/I/61PlwqgHdHL._AC_SL1500_.jpg",
+      "price": 60,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "20",
+      "name": "Ultra HD Projector",
+      "category": "Projection",
+      "image": "https://m.media-amazon.com/images/I/711VAJwqCbL._AC_SL1500_.jpg",
+      "price": 1800,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "21",
+      "name": "Smart Bracelet",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/41qX3yqRfjL._AC_SL1000_.jpg",
+      "price": 120,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "22",
+      "name": "Wireless WiFi Router",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/41lxsV5WvML._AC_SL1500_.jpg",
+      "price": 70,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "23",
+      "name": "Desktop Microphone",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61YZnYlPi+L._AC_SL1500_.jpg",
+      "price": 90,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "24",
+      "name": "E-book Reader",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/71FVDk5m0zL._AC_SL1500_.jpg",
+      "price": 140,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "25",
+      "name": "Gaming Headphones",
+      "category": "Headphones",
+      "image": "https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_SL1000_.jpg",
+      "price": 180,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "26",
+      "name": "4K Monitor",
+      "category": "Monitor",
+      "image": "https://m.media-amazon.com/images/I/61cbexjut4L._AC_SL1430_.jpg",
+      "price": 600,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "27",
+      "name": "Wireless Mouse",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61yxQRsEPJL._AC_SL1500_.jpg",
+      "price": 40,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "28",
+      "name": "Smart Thermostat",
+      "category": "Home Appliances",
+      "image": "https://m.media-amazon.com/images/I/61A+x8c9VeL._AC_SL1500_.jpg",
+      "price": 80,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "29",
+      "name": "High-Capacity External Hard Drive",
+      "category": "Storage",
+      "image": "https://m.media-amazon.com/images/I/61LoGZq-4NL._AC_SL1500_.jpg",
+      "price": 200,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "30",
+      "name": "Gaming Chair",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61XMPVV-yFL._AC_SL1500_.jpg",
+      "price": 350,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "31",
+      "name": "Wireless Keyboard",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61kjoUGYYoL._AC_SL1500_.jpg",
+      "price": 60,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "32",
+      "name": "Virtual Reality Headset",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61tE7IcuLmL._AC_SL1500_.jpg",
+      "price": 300,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "33",
+      "name": "USB-C Charger Adapter",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61wvAxhOCRL._AC_SL1200_.jpg",
+      "price": 20,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "34",
+      "name": "Automatic Smart Robot Vacuum",
+      "category": "Home Appliances",
+      "image": "https://m.media-amazon.com/images/I/81AnYERhhDL._SL1500_.jpg",
+      "price": 250,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "35",
+      "name": "Compact Digital Camera",
+      "category": "Camera",
+      "image": "https://m.media-amazon.com/images/I/91LeogPYpHL._AC_SL1500_.jpg",
+      "price": 400,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "36",
+      "name": "Fast Charger",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/61rDG1D3HOL._AC_SL1500_.jpg",
+      "price": 25,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "37",
+      "name": "Bluetooth Game Controller",
+      "category": "Gaming",
+      "image": "https://m.media-amazon.com/images/I/61MjRPvwyJL._SL1500_.jpg",
+      "price": 45,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "38",
+      "name": "Waterproof Smartphone Case",
+      "category": "Accessory",
+      "image": "https://m.media-amazon.com/images/I/81tlFA9ws2L._AC_SL1498_.jpg",
+      "price": 30,
+      "favorite": false,
+      "popular": true
+    },
+    {
+      "id": "39",
+      "name": "Wireless In-Ear Earphones",
+      "category": "Headphones",
+      "image": "https://m.media-amazon.com/images/I/71cVOgvystL._AC_SL1500_.jpg",
+      "price": 120,
+      "favorite": true,
+      "popular": true
+    },
+    {
+      "id": "40",
+      "name": "Desktop Speaker Set",
+      "category": "Speaker",
+      "image": "https://m.media-amazon.com/images/I/81IEOd-7PxL._AC_SX425_.jpg",
+      "price": 80,
+      "favorite": false,
+      "popular": true
+    }
+  ]
+}
