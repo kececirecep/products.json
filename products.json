@@ -359,6 +359,15 @@
       "price": 80,
       "favorite": false,
       "popular": true
+    },
+    {
+      "id": "41",
+      "name": "Desktop Speaker Set",
+      "category": "Speaker",
+      "image": "https://m.media-amazon.com/images/I/81IEOd-7PxL._AC_SX425_.jpg",
+      "price": 80,
+      "favorite": false,
+      "popular": true
     }
   ]
 }
