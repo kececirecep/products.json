@@ -314,60 +314,6 @@
       "price": 400,
       "favorite": false,
       "popular": true
-    },
-    {
-      "id": "36",
-      "name": "Fast Charger",
-      "category": "Accessory",
-      "image": "https://m.media-amazon.com/images/I/61rDG1D3HOL._AC_SL1500_.jpg",
-      "price": 25,
-      "favorite": true,
-      "popular": true
-    },
-    {
-      "id": "37",
-      "name": "Bluetooth Game Controller",
-      "category": "Gaming",
-      "image": "https://m.media-amazon.com/images/I/61MjRPvwyJL._SL1500_.jpg",
-      "price": 45,
-      "favorite": false,
-      "popular": true
-    },
-    {
-      "id": "38",
-      "name": "Waterproof Smartphone Case",
-      "category": "Accessory",
-      "image": "https://m.media-amazon.com/images/I/81tlFA9ws2L._AC_SL1498_.jpg",
-      "price": 30,
-      "favorite": false,
-      "popular": true
-    },
-    {
-      "id": "39",
-      "name": "Wireless In-Ear Earphones",
-      "category": "Headphones",
-      "image": "https://m.media-amazon.com/images/I/71cVOgvystL._AC_SL1500_.jpg",
-      "price": 120,
-      "favorite": true,
-      "popular": true
-    },
-    {
-      "id": "40",
-      "name": "Desktop Speaker Set",
-      "category": "Speaker",
-      "image": "https://m.media-amazon.com/images/I/81IEOd-7PxL._AC_SX425_.jpg",
-      "price": 80,
-      "favorite": false,
-      "popular": true
-    },
-    {
-      "id": "41",
-      "name": "Desktop Speaker Set",
-      "category": "Speaker",
-      "image": "https://m.media-amazon.com/images/I/81IEOd-7PxL._AC_SX425_.jpg",
-      "price": 80,
-      "favorite": false,
-      "popular": true
-    }
+    } 
   ]
 }
